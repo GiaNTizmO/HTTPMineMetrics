@@ -22,7 +22,7 @@ public class ExampleMod
     
     @EventHandler
     public void preInit(FMLPreInitializationEvent event) {
-    // Преинициализация
+    // пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ
     System.out.println("[MineMetric] Metrics is preinitilizating...");
 }
     
